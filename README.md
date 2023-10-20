@@ -1,1 +1,1 @@
-# Gomoku
+# React game application
